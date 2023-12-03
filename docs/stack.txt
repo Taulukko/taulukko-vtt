@@ -1,0 +1,2 @@
+node 20.10.0
+for all techs consult pom.xml
